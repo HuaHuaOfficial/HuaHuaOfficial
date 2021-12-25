@@ -5,6 +5,7 @@
 我对人工智能比较感兴趣。比如说AI插帧和超分辨率，声音合成等。  
 参加了MockingBird项目，炼丹ing。  
 希望前辈们多多关照。  
+最近在摸鱼......  
 
 - 👋 Hi, I’m @HuaHuaOfficial  
 - 👀 I’m interested in ...Physics and Animation  
