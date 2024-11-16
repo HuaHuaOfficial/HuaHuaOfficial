@@ -1,8 +1,8 @@
 你好，我是骅骅，一个物理系编程萌新兼B站UP主。  
 只会写一些专业相关的代码，可以说是很菜了（不是大佬那种装弱，是真的弱）
 目前只会一点C语言和Python，HTML。有一个服务器
-我对人工智能比较感兴趣。比如说AI插帧和超分辨率，声音合成等。  
-参加了MockingBird，VITS，so-VITS-SVC，Stable Diffusion的Lora和Dreambooth模型的训练。
+我对人工智能比较感兴趣。比如说AI绘画，声音合成等。  
+参加了MockingBird，VITS，so-VITS-SVC等声音合成；Stable Diffusion的Lora和Dreambooth模型的训练。
 希望前辈们多多关照。  
 最近在摸鱼......  
 
